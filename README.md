@@ -23,7 +23,7 @@
 </div>
 <br>
 
-## ☝️ Instrução de uso 📖
+## ☝️ Instruções de uso 📖
 
 - Tela Principal
   <img src="./assets/img/image.png"/>
