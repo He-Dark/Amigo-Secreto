@@ -15,10 +15,9 @@ function mostrarParticipantes() {
   let elementUl = document.getElementById("listaAmigos");
   let criaLi = document.createElement("li");
   elementUl.appendChild(criaLi);
-  for (let i = 0; i < nomes.length; i++) {
-    const element = nomes[i];
-    criaLi.innerText = element;
-  }
+  nomes.forEach(function (item) {
+    criaLi.innerText = item;
+  });
 }
 
 function limparInput() {
