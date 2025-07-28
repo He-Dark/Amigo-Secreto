@@ -4,13 +4,8 @@
 
 # 🚀 Amigo Secreto 🔒🔑
 
-## 📌 Sobre
-
-- Projeto desenvolvido como parte dos estudos da bolsa da **[ONE (Oracle Next Education)](https://www.oracle.com/br/education/oracle-next-education/)** na plataforma **[Alura](https://www.alura.com.br/?srsltid=AfmBOorGmTLvLY55LAmY5ua6TUqAXqoAIRQnveqyBbcYgFRDJlsxp86f)**
-
-<hr>
-
-- A ideia do projeto é que o usuário crie uma lista de amigos e possa sortear um ou mais amigos dessa lista.
+- Projeto desenvolvido como parte dos estudos da bolsa da **[ONE (Oracle Next Education)](https://www.oracle.com/br/education/oracle-next-education/)** na plataforma **[Alura](https://www.alura.com.br/?srsltid=AfmBOorGmTLvLY55LAmY5ua6TUqAXqoAIRQnveqyBbcYgFRDJlsxp86f)**.  
+  A ideia do projeto é que o usuário crie uma lista de amigos e possa sortear um ou mais amigos dessa lista.
 
 ## 💻 Tecnologias e Ferramentas
 
@@ -42,7 +37,7 @@
 
 <br>
 
-## 📍Obter o projeto localmente ⬇️
+## 📍Executar o projeto localmente ⬇️
 
 Para utilizar o projeto em sua máquina você precisa realizar uma cópia do mesmo, utilizando o comando **git clone**.
 
